@@ -1,1 +1,2 @@
 # Udacity-NYSE-Advanced-Excel-Project
+In this project we analyzed data from the New York Stock Exchange dataset fro Kaggle. We will be calculating summary statistics, drawing any inference from the statistics, calculating business metrics, and using models to forecast future growth prospects for the companies. To compete this project we had to complete a profit and loss dashboard, a financial forcasting model, and categorical and qialitative data in a summary statstics. 
